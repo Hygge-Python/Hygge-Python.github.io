@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hermes.kebiao",
+    "sha256_cert_fingerprints": ["6A:8F:4A:62:F0:37:AE:01:77:23:15:CC:69:CA:90:4D:BE:DD:0A:2B:5D:0F:82:9D:19:4D:B9:B0:91:1C:61:33"]
+  }
+}]
